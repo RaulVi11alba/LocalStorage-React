@@ -1,5 +1,3 @@
-// npm run dev
-
 import { useEffect, useState } from "react";
 import Formulario from "./components/Formulario";
 import ListaEstudiantes from "./components/ListaEstudiantes";
